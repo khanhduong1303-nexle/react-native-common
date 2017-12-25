@@ -1,7 +1,4 @@
-import Text from './app/components/Text';
+import { AppRegistry } from 'react-native';
+import App from './App';
 
-export {
-    Text
-}
-
-export default module.exports;
+AppRegistry.registerComponent('tgsportsElements', () => App);

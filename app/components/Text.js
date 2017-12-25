@@ -10,7 +10,7 @@ import {
     View
 } from 'react-native';
 
-export default class Text2 extends Component<{}> {
+export default class Text extends Component {
     render() {
         return (
             <Text style={styles.container}>

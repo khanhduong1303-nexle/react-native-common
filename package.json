@@ -1,5 +1,6 @@
 {
   "name": "tgsports-react-native-elements",
+  "main": "./exportIndex.js",
   "version": "0.0.1",
   "private": true,
   "scripts": {
