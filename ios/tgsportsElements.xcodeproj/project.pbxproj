@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */; };
 		00C302E71ABCBA2D00DB3ED1 /* libRCTGeolocation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302BA1ABCB90400DB3ED1 /* libRCTGeolocation.a */; };
@@ -37,6 +36,34 @@
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
+		BE1555CCBBC14EE8BC52E648 /* Adelle bold italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 85DB546FCEE14B63BAA1300B /* Adelle bold italic.otf */; };
+		35F93A226B124C73B9D5AF80 /* Adelle bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = D1375296234D4167AF8CA9B1 /* Adelle bold.otf */; };
+		93D9D955C75C46DFA8A6DBAB /* Adelle extrabold italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 57C8BA7B27804EE8A253D497 /* Adelle extrabold italic.otf */; };
+		0EA09B4E4D9D464DA5107B83 /* Adelle extrabold.otf in Resources */ = {isa = PBXBuildFile; fileRef = D7AF66CB3958492A982CB07A /* Adelle extrabold.otf */; };
+		700C007C4D0A400AA79CF62A /* Adelle heavy italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8258B73C3D72457BB2C25891 /* Adelle heavy italic.otf */; };
+		57436CDA5CEE4407898BD246 /* Adelle heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = CC47A2269C824583A59F8B65 /* Adelle heavy.otf */; };
+		E0EED2763F874117BFD1507A /* Adelle italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = EB18A8857A7E45C1A6DEBDFF /* Adelle italic.otf */; };
+		40E5A9756AF0471382CBDFD8 /* Adelle light italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = AA0901DDB0A74F47A5043A2C /* Adelle light italic.otf */; };
+		815C924D0F094F969ECDD0D1 /* Adelle light.otf in Resources */ = {isa = PBXBuildFile; fileRef = DAC7DF88403F49B3AE94863A /* Adelle light.otf */; };
+		010C84A999EB4DE1BA262B07 /* Adelle regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3953D33F44AF4A2AAA733BF9 /* Adelle regular.otf */; };
+		9216CE4D93E248BB98541156 /* Adelle Sans Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 456ED93667884C15BEEEB3EC /* Adelle Sans Bold Italic.otf */; };
+		795B69E09A664F5984556946 /* Adelle Sans Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2AD53381142E423882A1AB91 /* Adelle Sans Bold.otf */; };
+		A62F4A6339FE4B1A9FB5B421 /* Adelle Sans ExtraBold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6204716F99AB49629DA85532 /* Adelle Sans ExtraBold Italic.otf */; };
+		EB51DD718D5B4F21B92309C9 /* Adelle Sans ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 01D9A4B515524DC2B6EB3833 /* Adelle Sans ExtraBold.otf */; };
+		3871F221213747B18F1672B3 /* Adelle Sans Heavy Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = A4833A11D24245989089F971 /* Adelle Sans Heavy Italic.otf */; };
+		01A10D176918437E93089622 /* Adelle Sans Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = ACED0E9DE34B442691F8D166 /* Adelle Sans Heavy.otf */; };
+		2D02E0BFFEFA4E719A2DF3AB /* Adelle Sans Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9A519D470C0A4604A5D95126 /* Adelle Sans Italic.otf */; };
+		35B913A5A70445E0BCA23544 /* Adelle Sans Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 542F879B793A4B679BCAB85A /* Adelle Sans Light Italic.otf */; };
+		D729685BBB144AF2A8998797 /* Adelle Sans Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 20B5F393EC2B46579B9276F9 /* Adelle Sans Light.otf */; };
+		74F5AFF8B4A349B5B4D47270 /* Adelle Sans Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 54AF7660F47145D6B73C496F /* Adelle Sans Regular.otf */; };
+		75C9F24864F24C0798F66D6C /* Adelle Sans SemiBold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7A1567886BBA4362AB0908EC /* Adelle Sans SemiBold Italic.otf */; };
+		9C2C8D0BF17E42118E826677 /* Adelle Sans SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 49BF0E16DE6F46849E10644A /* Adelle Sans SemiBold.otf */; };
+		DF00A2F52BF54E9681DA6BF1 /* Adelle Sans Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 79411BE4E348496EB4231D10 /* Adelle Sans Thin Italic.otf */; };
+		DA06BEEBFBE84004AA1C4ECE /* Adelle Sans Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 286564A76E9D48A3A5078391 /* Adelle Sans Thin.otf */; };
+		E7FEDE82F56949099BDE6773 /* Adelle semibold italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2C04FAEEC72A49579AAAC59E /* Adelle semibold italic.otf */; };
+		2516DEAD3F664F4BB7A8CA8E /* Adelle semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 52089A2F661246749BDABB7B /* Adelle semibold.otf */; };
+		7965DBB75FA146879C6FF6E7 /* Adelle thin italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 134BB55FE1B44D49A6AC3D5C /* Adelle thin italic.otf */; };
+		6B919110AC03437D949DA691 /* Adelle thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 000849ECFEEB4DBDA8A803DC /* Adelle thin.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -264,6 +291,34 @@
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
+		85DB546FCEE14B63BAA1300B /* Adelle bold italic.otf */ = {isa = PBXFileReference; name = "Adelle bold italic.otf"; path = "../assets/fonts/Adelle bold italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D1375296234D4167AF8CA9B1 /* Adelle bold.otf */ = {isa = PBXFileReference; name = "Adelle bold.otf"; path = "../assets/fonts/Adelle bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		57C8BA7B27804EE8A253D497 /* Adelle extrabold italic.otf */ = {isa = PBXFileReference; name = "Adelle extrabold italic.otf"; path = "../assets/fonts/Adelle extrabold italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D7AF66CB3958492A982CB07A /* Adelle extrabold.otf */ = {isa = PBXFileReference; name = "Adelle extrabold.otf"; path = "../assets/fonts/Adelle extrabold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8258B73C3D72457BB2C25891 /* Adelle heavy italic.otf */ = {isa = PBXFileReference; name = "Adelle heavy italic.otf"; path = "../assets/fonts/Adelle heavy italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CC47A2269C824583A59F8B65 /* Adelle heavy.otf */ = {isa = PBXFileReference; name = "Adelle heavy.otf"; path = "../assets/fonts/Adelle heavy.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EB18A8857A7E45C1A6DEBDFF /* Adelle italic.otf */ = {isa = PBXFileReference; name = "Adelle italic.otf"; path = "../assets/fonts/Adelle italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AA0901DDB0A74F47A5043A2C /* Adelle light italic.otf */ = {isa = PBXFileReference; name = "Adelle light italic.otf"; path = "../assets/fonts/Adelle light italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DAC7DF88403F49B3AE94863A /* Adelle light.otf */ = {isa = PBXFileReference; name = "Adelle light.otf"; path = "../assets/fonts/Adelle light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3953D33F44AF4A2AAA733BF9 /* Adelle regular.otf */ = {isa = PBXFileReference; name = "Adelle regular.otf"; path = "../assets/fonts/Adelle regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		456ED93667884C15BEEEB3EC /* Adelle Sans Bold Italic.otf */ = {isa = PBXFileReference; name = "Adelle Sans Bold Italic.otf"; path = "../assets/fonts/Adelle Sans Bold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2AD53381142E423882A1AB91 /* Adelle Sans Bold.otf */ = {isa = PBXFileReference; name = "Adelle Sans Bold.otf"; path = "../assets/fonts/Adelle Sans Bold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6204716F99AB49629DA85532 /* Adelle Sans ExtraBold Italic.otf */ = {isa = PBXFileReference; name = "Adelle Sans ExtraBold Italic.otf"; path = "../assets/fonts/Adelle Sans ExtraBold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		01D9A4B515524DC2B6EB3833 /* Adelle Sans ExtraBold.otf */ = {isa = PBXFileReference; name = "Adelle Sans ExtraBold.otf"; path = "../assets/fonts/Adelle Sans ExtraBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A4833A11D24245989089F971 /* Adelle Sans Heavy Italic.otf */ = {isa = PBXFileReference; name = "Adelle Sans Heavy Italic.otf"; path = "../assets/fonts/Adelle Sans Heavy Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		ACED0E9DE34B442691F8D166 /* Adelle Sans Heavy.otf */ = {isa = PBXFileReference; name = "Adelle Sans Heavy.otf"; path = "../assets/fonts/Adelle Sans Heavy.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9A519D470C0A4604A5D95126 /* Adelle Sans Italic.otf */ = {isa = PBXFileReference; name = "Adelle Sans Italic.otf"; path = "../assets/fonts/Adelle Sans Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		542F879B793A4B679BCAB85A /* Adelle Sans Light Italic.otf */ = {isa = PBXFileReference; name = "Adelle Sans Light Italic.otf"; path = "../assets/fonts/Adelle Sans Light Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		20B5F393EC2B46579B9276F9 /* Adelle Sans Light.otf */ = {isa = PBXFileReference; name = "Adelle Sans Light.otf"; path = "../assets/fonts/Adelle Sans Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		54AF7660F47145D6B73C496F /* Adelle Sans Regular.otf */ = {isa = PBXFileReference; name = "Adelle Sans Regular.otf"; path = "../assets/fonts/Adelle Sans Regular.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7A1567886BBA4362AB0908EC /* Adelle Sans SemiBold Italic.otf */ = {isa = PBXFileReference; name = "Adelle Sans SemiBold Italic.otf"; path = "../assets/fonts/Adelle Sans SemiBold Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		49BF0E16DE6F46849E10644A /* Adelle Sans SemiBold.otf */ = {isa = PBXFileReference; name = "Adelle Sans SemiBold.otf"; path = "../assets/fonts/Adelle Sans SemiBold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		79411BE4E348496EB4231D10 /* Adelle Sans Thin Italic.otf */ = {isa = PBXFileReference; name = "Adelle Sans Thin Italic.otf"; path = "../assets/fonts/Adelle Sans Thin Italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		286564A76E9D48A3A5078391 /* Adelle Sans Thin.otf */ = {isa = PBXFileReference; name = "Adelle Sans Thin.otf"; path = "../assets/fonts/Adelle Sans Thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2C04FAEEC72A49579AAAC59E /* Adelle semibold italic.otf */ = {isa = PBXFileReference; name = "Adelle semibold italic.otf"; path = "../assets/fonts/Adelle semibold italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		52089A2F661246749BDABB7B /* Adelle semibold.otf */ = {isa = PBXFileReference; name = "Adelle semibold.otf"; path = "../assets/fonts/Adelle semibold.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		134BB55FE1B44D49A6AC3D5C /* Adelle thin italic.otf */ = {isa = PBXFileReference; name = "Adelle thin italic.otf"; path = "../assets/fonts/Adelle thin italic.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		000849ECFEEB4DBDA8A803DC /* Adelle thin.otf */ = {isa = PBXFileReference; name = "Adelle thin.otf"; path = "../assets/fonts/Adelle thin.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -480,6 +535,7 @@
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* tgsportsElementsTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
+				F2436C227D294295B7469ECD /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -504,6 +560,42 @@
 			);
 			name = Products;
 			sourceTree = "<group>";
+		};
+		F2436C227D294295B7469ECD /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				85DB546FCEE14B63BAA1300B /* Adelle bold italic.otf */,
+				D1375296234D4167AF8CA9B1 /* Adelle bold.otf */,
+				57C8BA7B27804EE8A253D497 /* Adelle extrabold italic.otf */,
+				D7AF66CB3958492A982CB07A /* Adelle extrabold.otf */,
+				8258B73C3D72457BB2C25891 /* Adelle heavy italic.otf */,
+				CC47A2269C824583A59F8B65 /* Adelle heavy.otf */,
+				EB18A8857A7E45C1A6DEBDFF /* Adelle italic.otf */,
+				AA0901DDB0A74F47A5043A2C /* Adelle light italic.otf */,
+				DAC7DF88403F49B3AE94863A /* Adelle light.otf */,
+				3953D33F44AF4A2AAA733BF9 /* Adelle regular.otf */,
+				456ED93667884C15BEEEB3EC /* Adelle Sans Bold Italic.otf */,
+				2AD53381142E423882A1AB91 /* Adelle Sans Bold.otf */,
+				6204716F99AB49629DA85532 /* Adelle Sans ExtraBold Italic.otf */,
+				01D9A4B515524DC2B6EB3833 /* Adelle Sans ExtraBold.otf */,
+				A4833A11D24245989089F971 /* Adelle Sans Heavy Italic.otf */,
+				ACED0E9DE34B442691F8D166 /* Adelle Sans Heavy.otf */,
+				9A519D470C0A4604A5D95126 /* Adelle Sans Italic.otf */,
+				542F879B793A4B679BCAB85A /* Adelle Sans Light Italic.otf */,
+				20B5F393EC2B46579B9276F9 /* Adelle Sans Light.otf */,
+				54AF7660F47145D6B73C496F /* Adelle Sans Regular.otf */,
+				7A1567886BBA4362AB0908EC /* Adelle Sans SemiBold Italic.otf */,
+				49BF0E16DE6F46849E10644A /* Adelle Sans SemiBold.otf */,
+				79411BE4E348496EB4231D10 /* Adelle Sans Thin Italic.otf */,
+				286564A76E9D48A3A5078391 /* Adelle Sans Thin.otf */,
+				2C04FAEEC72A49579AAAC59E /* Adelle semibold italic.otf */,
+				52089A2F661246749BDABB7B /* Adelle semibold.otf */,
+				134BB55FE1B44D49A6AC3D5C /* Adelle thin italic.otf */,
+				000849ECFEEB4DBDA8A803DC /* Adelle thin.otf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -586,7 +678,7 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 610;
 				ORGANIZATIONNAME = Facebook;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
@@ -874,6 +966,34 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				BE1555CCBBC14EE8BC52E648 /* Adelle bold italic.otf in Resources */,
+				35F93A226B124C73B9D5AF80 /* Adelle bold.otf in Resources */,
+				93D9D955C75C46DFA8A6DBAB /* Adelle extrabold italic.otf in Resources */,
+				0EA09B4E4D9D464DA5107B83 /* Adelle extrabold.otf in Resources */,
+				700C007C4D0A400AA79CF62A /* Adelle heavy italic.otf in Resources */,
+				57436CDA5CEE4407898BD246 /* Adelle heavy.otf in Resources */,
+				E0EED2763F874117BFD1507A /* Adelle italic.otf in Resources */,
+				40E5A9756AF0471382CBDFD8 /* Adelle light italic.otf in Resources */,
+				815C924D0F094F969ECDD0D1 /* Adelle light.otf in Resources */,
+				010C84A999EB4DE1BA262B07 /* Adelle regular.otf in Resources */,
+				9216CE4D93E248BB98541156 /* Adelle Sans Bold Italic.otf in Resources */,
+				795B69E09A664F5984556946 /* Adelle Sans Bold.otf in Resources */,
+				A62F4A6339FE4B1A9FB5B421 /* Adelle Sans ExtraBold Italic.otf in Resources */,
+				EB51DD718D5B4F21B92309C9 /* Adelle Sans ExtraBold.otf in Resources */,
+				3871F221213747B18F1672B3 /* Adelle Sans Heavy Italic.otf in Resources */,
+				01A10D176918437E93089622 /* Adelle Sans Heavy.otf in Resources */,
+				2D02E0BFFEFA4E719A2DF3AB /* Adelle Sans Italic.otf in Resources */,
+				35B913A5A70445E0BCA23544 /* Adelle Sans Light Italic.otf in Resources */,
+				D729685BBB144AF2A8998797 /* Adelle Sans Light.otf in Resources */,
+				74F5AFF8B4A349B5B4D47270 /* Adelle Sans Regular.otf in Resources */,
+				75C9F24864F24C0798F66D6C /* Adelle Sans SemiBold Italic.otf in Resources */,
+				9C2C8D0BF17E42118E826677 /* Adelle Sans SemiBold.otf in Resources */,
+				DF00A2F52BF54E9681DA6BF1 /* Adelle Sans Thin Italic.otf in Resources */,
+				DA06BEEBFBE84004AA1C4ECE /* Adelle Sans Thin.otf in Resources */,
+				E7FEDE82F56949099BDE6773 /* Adelle semibold italic.otf in Resources */,
+				2516DEAD3F664F4BB7A8CA8E /* Adelle semibold.otf in Resources */,
+				7965DBB75FA146879C6FF6E7 /* Adelle thin italic.otf in Resources */,
+				6B919110AC03437D949DA691 /* Adelle thin.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

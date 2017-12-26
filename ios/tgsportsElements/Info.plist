@@ -39,9 +39,8 @@
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>NSAppTransportSecurity</key>
-	<!--See http://ste.vn/2015/06/10/configuring-app-transport-security-ios-9-osx-10-11/ -->
 	<dict>
 		<key>NSExceptionDomains</key>
 		<dict>
@@ -52,5 +51,36 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Adelle bold italic.otf</string>
+		<string>Adelle bold.otf</string>
+		<string>Adelle extrabold italic.otf</string>
+		<string>Adelle extrabold.otf</string>
+		<string>Adelle heavy italic.otf</string>
+		<string>Adelle heavy.otf</string>
+		<string>Adelle italic.otf</string>
+		<string>Adelle light italic.otf</string>
+		<string>Adelle light.otf</string>
+		<string>Adelle regular.otf</string>
+		<string>Adelle Sans Bold Italic.otf</string>
+		<string>Adelle Sans Bold.otf</string>
+		<string>Adelle Sans ExtraBold Italic.otf</string>
+		<string>Adelle Sans ExtraBold.otf</string>
+		<string>Adelle Sans Heavy Italic.otf</string>
+		<string>Adelle Sans Heavy.otf</string>
+		<string>Adelle Sans Italic.otf</string>
+		<string>Adelle Sans Light Italic.otf</string>
+		<string>Adelle Sans Light.otf</string>
+		<string>Adelle Sans Regular.otf</string>
+		<string>Adelle Sans SemiBold Italic.otf</string>
+		<string>Adelle Sans SemiBold.otf</string>
+		<string>Adelle Sans Thin Italic.otf</string>
+		<string>Adelle Sans Thin.otf</string>
+		<string>Adelle semibold italic.otf</string>
+		<string>Adelle semibold.otf</string>
+		<string>Adelle thin italic.otf</string>
+		<string>Adelle thin.otf</string>
+	</array>
 </dict>
 </plist>
